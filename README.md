@@ -43,30 +43,5 @@ alert('hello');
 
 
 
-<!DOCTYPE html>
-<html>
-<head>
-<title>Variables</title>
-
-</head>
-<body>
-
-    <script>
-let variable1 = 3;
-console.log(variable1);
-
-
-let calculation = variable1 + 2;
-console.log(calculation);
-
-let result = calculation + variable1;
-console.log(result);
-
-let message = 'hello';
-console.log(message);
-    </script>
-</body>
-
-</html>
 
 
